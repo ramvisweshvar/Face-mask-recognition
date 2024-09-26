@@ -29,15 +29,15 @@ pip install tensorflow keras numpy pandas matplotlib
 
 **Clone the Repository**
 
-git clone https://github.com/ramvisweshvar/face-mask-detection.git
-cd face-mask-detection
+```git clone https://github.com/ramvisweshvar/face-mask-detection.git
+cd face-mask-detection```
 
 
 **Training the Model**
 
 You can train the model using the provided dataset by running the following script:
 
-python train_model.py
+```python train_model.py```
 
 This script will load the dataset, preprocess the images, and train the CNN model.
 
