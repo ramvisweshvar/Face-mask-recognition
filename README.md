@@ -29,8 +29,8 @@ pip install tensorflow keras numpy pandas matplotlib
 
 **Clone the Repository**
 
-```git clone https://github.com/ramvisweshvar/face-mask-detection.git
-cd face-mask-detection```
+```git clone https://github.com/ramvisweshvar/face-mask-detection.git```
+```cd face-mask-detection```
 
 
 **Training the Model**
